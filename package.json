@@ -1,6 +1,6 @@
 {
   "main": "dist/cjs/index.js",
-  "name": "minecraft-react-ui",
+  "name": "minecraft-react-ui-up",
   "version": "1.0.0",
   "description": "Minecraft React UI components library",
   "module": "dist/esm/index.js",
@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/josempineiro/minecraft-react-ui.git"
+    "url": "git+https://github.com/DhyanCanPlay/minecraft-react-ui.git"
   },
   "keywords": [
     "react",
@@ -26,9 +26,9 @@
   "author": "José Manuel Piñeiro Garcia",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/josempineiro/minecraft-react-ui/issues"
+    "url": "https://github.com/DhyanCanPlay/minecraft-react-ui/issues"
   },
-  "homepage": "https://github.com/josempineiro/minecraft-react-ui#readme",
+  "homepage": "https://github.com/DhyanCanPlay/minecraft-react-ui#readme",
   "devDependencies": {
     "@babel/core": "^7.17.10",
     "@rollup/plugin-commonjs": "^22.0.0",
